@@ -143,14 +143,18 @@ $('.counter').counterUp({
             $('html,body').animate({scrollTop: 0},300);    
     });
 
+
 // Loading Screen 
 
-//$(window).on('load',function(){ 
-//        $('.loading').fadeOut(6000);
-//    });
+$(document).ready(function(){
+    
+     $('#loading').fadeOut(1000);
+
+})
+
 
  
-
-$(function(){
-	$('#container').mixItUp();
-});
+//
+//$(function(){
+//	$('#container').mixItUp();
+//});
