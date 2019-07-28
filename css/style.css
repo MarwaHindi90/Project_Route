@@ -177,10 +177,10 @@ ul {
     }
     .slider .carousel-caption {
         position: absolute;
-        bottom: 10%;
+        bottom: 8%;
     }
     .slider .carousel-caption h1 {
-        font-size: 2.2rem
+        font-size: 2rem
     }
 }
 
