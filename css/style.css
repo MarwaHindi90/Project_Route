@@ -352,6 +352,7 @@ ul {
 .latest-work ul li {
     font-size: 12px;
     font-weight: 600;
+    padding: 10px 8px;
     cursor: pointer;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
