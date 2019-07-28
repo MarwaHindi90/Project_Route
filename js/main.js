@@ -148,7 +148,7 @@ $('.counter').counterUp({
 
 $(document).ready(function(){
     
-     $('#loading').fadeOut(1000);
+     $('#loading').fadeOut(2000);
 
 })
 
